@@ -1,0 +1,250 @@
+# depslib dependency file v1.0
+1643626258 source:d:\college\vap\03 - fe - 2 - c programming\hotel management\main.c
+	"people_details.h"
+
+1641476631 source:d:\college\vap\03 - fe - 2 - c programming\hotel management\sqlite3.c
+	<vxWorks.h>
+	<pthread.h>
+	"mingw.h"
+	"_mingw.h"
+	<stdarg.h>
+	"config.h"
+	<stdint.h>
+	<inttypes.h>
+	<intrin.h>
+	<cmnintrin.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	"windows.h"
+	<sys/cygwin.h>
+	<errno.h>
+	<process.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/file.h>
+	<sys/param.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	"sqlite_tcl.h"
+	"tcl.h"
+	<ctype.h>
+	"sqlite3rtree.h"
+	<ctype.h>
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+	<math.h>
+
+1641476631 source:d:\college\vap\03 - fe - 2 - c programming\hotel management\sqlite3.h
+	<stdarg.h>
+
+1641476631 d:\college\vap\03 - fe - 2 - c programming\hotel management\sqlite3.h
+	<stdarg.h>
+
+1643552023 source:d:\college\vap\03 - fe - 2 - c programming\hotel management\room_allocation.c
+	<stdio.h>
+	<stdlib.h>
+	"sqlite3.h"
+
+1643551770 source:d:\college\vap\03 - fe - 2 - c programming\hotel management\name.c
+	<stdio.h>
+
+1643552366 source:d:\college\vap\03 - fe - 2 - c programming\hotel management\id_proof.c
+	<stdio.h>
+	<stdlib.h>
+	"sqlite3.h"
+
+1643558159 source:d:\college\vap\03 - fe - 2 - c programming\hotel management\check_in_details.c
+	<stdio.h>
+	<stdlib.h>
+	"sqlite3.h"
+
+1643626388 d:\college\vap\03 - fe - 2 - c programming\hotel management\people_details.h
+	<stdio.h>
+	<stdlib.h>
+	"sqlite3.h"
+	<string.h>
+
+1643624452 source:d:\college\vap\03 - fe - 2 - c programming\hotel management\people_details.c
+	<stdio.h>
+	<stdlib.h>
+	"sqlite3.h"
+	<string.h>
+	"people_details.h"
+
+1643722172 source:d:\college\vap\03 - fe - 2 - c programming\hotel management\add_to_database.c
+	<stdio.h>
+	<stdlib.h>
+	"sqlite3.h"
+	<string.h>
+	"people_details.h"
+
+1643807056 source:d:\college\vap\03 - fe - 2 - c programming\hotel management\check_out.c
+	<stdio.h>
+	<time.h>
+	"sqlite3.h"
+	"people_details.h"
+
+1643880135 source:c:\users\shashant motling\downloads\hotel-management-system-using-c\temper\hotel management\add_to_database.c
+	<stdio.h>
+	<stdlib.h>
+	"sqlite3.h"
+	<string.h>
+	"people_details.h"
+
+1643880138 c:\users\shashant motling\downloads\hotel-management-system-using-c\temper\hotel management\sqlite3.h
+	<stdarg.h>
+
+1643880138 c:\users\shashant motling\downloads\hotel-management-system-using-c\temper\hotel management\people_details.h
+	<stdio.h>
+	<stdlib.h>
+	"sqlite3.h"
+	<string.h>
+
+1644076138 source:c:\users\shashant motling\downloads\hotel-management-system-using-c\temper\hotel management\main.c
+	"people_details.h"
+	<conio.h>
+	"ANSI-color-codes.h"
+
+1643880138 source:c:\users\shashant motling\downloads\hotel-management-system-using-c\temper\hotel management\sqlite3.c
+	<vxWorks.h>
+	<pthread.h>
+	"mingw.h"
+	"_mingw.h"
+	<stdarg.h>
+	"config.h"
+	<stdint.h>
+	<inttypes.h>
+	<intrin.h>
+	<cmnintrin.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	"windows.h"
+	<sys/cygwin.h>
+	<errno.h>
+	<process.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/file.h>
+	<sys/param.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	"sqlite_tcl.h"
+	"tcl.h"
+	<ctype.h>
+	"sqlite3rtree.h"
+	<ctype.h>
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+	<math.h>
+
+1644135416 source:c:\users\shashant motling\downloads\hotel-management-system-using-c\temper\hotel management\people_details.c
+	<stdio.h>
+	<stdlib.h>
+	"sqlite3.h"
+	<string.h>
+	"people_details.h"
+	"ANSI-color-codes.h"
+
+1643880137 source:c:\users\shashant motling\downloads\hotel-management-system-using-c\temper\hotel management\check_in_details.c
+	<stdio.h>
+	<stdlib.h>
+	"sqlite3.h"
+	<string.h>
+
+1643880137 source:c:\users\shashant motling\downloads\hotel-management-system-using-c\temper\hotel management\check_out.c
+	<stdio.h>
+	<time.h>
+	"sqlite3.h"
+	"people_details.h"
+
+1643880137 source:c:\users\shashant motling\downloads\hotel-management-system-using-c\temper\hotel management\name.c
+	<stdio.h>
+
+1643881920 source:c:\users\shashant motling\downloads\hotel-management-system-using-c\temper\hotel management\id_proof.c
+	<stdio.h>
+	<stdlib.h>
+	"sqlite3.h"
+	<string.h>
+
+1643880138 source:c:\users\shashant motling\downloads\hotel-management-system-using-c\temper\hotel management\people_details.h
+	<stdio.h>
+	<stdlib.h>
+	"sqlite3.h"
+	<string.h>
+
+1643880138 source:c:\users\shashant motling\downloads\hotel-management-system-using-c\temper\hotel management\room_allocation.c
+	<stdio.h>
+	<stdlib.h>
+	"sqlite3.h"
+
+1643880138 source:c:\users\shashant motling\downloads\hotel-management-system-using-c\temper\hotel management\sqlite3.h
+	<stdarg.h>
+
+1643880138 source:c:\users\shashant motling\downloads\hotel-management-system-using-c\temper\hotel management\user_inp.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+
+1643967274 source:c:\users\shashant motling\downloads\hotel-management-system-using-c\temper\hotel management\testmain.c
+	"ANSI-color-codes.h"
+	<stdio.h>
+
+1643967867 c:\users\shashant motling\downloads\hotel-management-system-using-c\temper\hotel management\ansi-color-codes.h
+
